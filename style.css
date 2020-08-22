@@ -140,3 +140,10 @@ ol, ul{
   background-color: #e0e0e0;
   color: black;
 }
+
+/* List style */
+li {
+    font-size: 12px;
+    margin-left: 10px;
+    list-style-type: circle;
+ }
