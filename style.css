@@ -82,7 +82,7 @@ header{
 #menu li:hover a, #menu li span{ 
 	background: #000000; 
 	color: #181818; 
-	border-left: 1px solid #919191; 
+	border-left: 1px solid #ff1100; 
 	text-decoration: none;
 }
 
