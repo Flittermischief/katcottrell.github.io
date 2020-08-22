@@ -1,3 +1,63 @@
+
+/*************************/
+/*    Styling  Header    */
+/*************************/
+header{
+    overflow: hidden; 
+}
+
+#top-header{
+    text-align: center; 
+    height: 60px; 
+}
+
+/***************************/
+/* Styling Navigation Menu */
+/***************************/
+#menu{ 
+    float: left; 
+    width: 70%; 
+    height: 100%; 
+    margin: none; 
+} 
+
+#menu ul{ 
+    text-align: center; 
+    float: left; 
+    margin: none; 
+    background: #181818; 
+} 
+      
+#menu li{ 
+    display: inline-block; 
+    padding: none; 
+    margin: none; 
+} 
+
+#menu li a, #menu li span{ 
+    display: inline-block; 
+    padding: 0em 1.5em; 
+    text-decoration: none; 
+    font-weight: 600; 
+    text-transform: uppercase; 
+    line-height: 60px; 
+} 
+
+#menu li a{
+    color: #FFF; 
+} 
+
+#menu li:hover a, #menu li span{ 
+    background: #FFF; 
+    color: #000000; 
+    border-left: 1px solid #ff1100; 
+    text-decoration: none; 
+} 
+
+/***************************/
+/* Default CSS values for HTML elements */
+/***************************/
+
 html, body{ 
 	height: 100%; 
 }
@@ -36,55 +96,6 @@ ol, ul{
 	margin: 0px auto; 
 	width: 1200px; 
 } 
-
-header{     
-    overflow: hidden; 
-} 
-
-#top-header{ 	
-	text-align: center; 
-	height: 60px; 
-} 
-
-#menu{ 
-	float: left; 
-	width: 70%; 
-	height: 100%; 
-	margin: none; 
-} 
-
-#menu ul{ 
-	text-align: center; 
-	float: right; 
-	margin: none; 
-	background: #181818; 
-}
-
-#menu li{ 
-	display: inline-block; 
-	padding: none; 
-	margin: none; 
-}
-
-#menu li a, #menu li span{ 
-	display: inline-block; 
-	padding: 0em 1.5em; 
-	text-decoration: none; 
-	font-weight: 600; 
-	text-transform: uppercase; 
-	line-height: 60px; 
-}
-
-#menu li a{ 	
-	color: #FFF; 
-}
-
-#menu li:hover a, #menu li span{ 
-	background: #000000; 
-	color: #181818; 
-	border-left: 1px solid #ff1100; 
-	text-decoration: none;
-}
 
  #header-image-menu{ 
 	top: 0px; 
