@@ -114,14 +114,14 @@ ol, ul{
 
 /* Add a black background color to the top navigation */
 .topnav {
-  background-color: #1f1f1f;
+  background-color: #cccccc;
   overflow: hidden;
 }
 
 /* Style the links inside the navigation bar */
 .topnav a {
   float: left;
-  color: #FFF;
+  color: #000000;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -130,12 +130,12 @@ ol, ul{
 
 /* Change the color of links on hover */
 .topnav a:hover {
-  background-color: #424242;
-  color: white;
+  background-color: #e0e0e0;
+  color: black;
 }
 
 /* Add a color to the active/current link */
 .topnav a.active {
-  background-color: #424242;
-  color: white;
+  background-color: #e0e0e0;
+  color: black;
 }
