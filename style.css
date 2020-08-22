@@ -10,20 +10,6 @@ header{
     text-align: center; 
     height: 60px; 
 }
-
-/*****************************/
-/* Styling Header Image Menu */
-/*****************************/
-#header-image-menu{ 
-    top: 10px; 
-    position: relative; 
-} 
-  
-#header-image-menu img{ 
-    width: 100%; 
-    margin: none; 
-    padding: none; 
-} 
   
 #image-text{ 
     position: absolute; 
@@ -120,6 +106,10 @@ ol, ul{
 	margin: 0px auto; 
 	width: 1200px; 
 } 
+
+/*****************************/
+/* Styling Header Image Menu */
+/*****************************/
 
  #header-image-menu{ 
 	top: 0px; 
