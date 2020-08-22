@@ -1,0 +1,10 @@
+#header-image-menu{ 
+	top: 10px; 
+	position: relative; 
+} 
+
+#header-image-menu img{ 
+	width: 100%; 
+	margin: none; 
+	padding: none; 
+} 
