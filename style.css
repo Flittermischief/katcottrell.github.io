@@ -10,30 +10,20 @@ header{
     text-align: center; 
     height: 60px; 
 }
-  
-#image-text{ 
-    position: absolute; 
-    top: 60%; 
-    left: 60%; 
-    font-family: 'Roboto'; 
-    color: #000; 
-    transform: translate(-30%, -30%); 
-    text-align: center; 
-} 
 
 /***************************/
 /* Styling Navigation Menu */
 /***************************/
 #menu{ 
-    float: left; 
-    width: 70%; 
+    float: right; 
+    width: 100%; 
     height: 100%; 
     margin: none; 
 } 
 
 #menu ul{ 
     text-align: center; 
-    float: left; 
+    float: right; 
     margin: none; 
     background: #181818; 
 } 
