@@ -147,3 +147,18 @@ li {
     margin-left: 60px;
     list-style-type: circle;
  }
+
+/* Logo */
+#logo{ 
+    float: left; 
+    padding: none; 
+    margin: none; 
+    height: 60px; 
+    width: 30%; 
+} 
+  
+#logo img{ 
+    width: 60%; 
+    float: left; 
+    padding: 10px 0px; 
+}    
