@@ -158,7 +158,7 @@ li {
 } 
   
 #logo img{ 
-    width: 100%; 
+    width: 60%; 
     float: left; 
-    padding: 0px; 
+    padding: 10px 0px; 
 }    
