@@ -154,11 +154,11 @@ li {
     padding: none; 
     margin: none; 
     height: 60px; 
-    width: 30%; 
+    width: 100%; 
 } 
   
 #logo img{ 
-    width: 60%; 
+    width: 100%; 
     float: left; 
-    padding: 10px 0px; 
+    padding: 0px; 
 }    
