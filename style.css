@@ -90,6 +90,10 @@ ol, ul{
 	padding: 0; 
 	list-style: none; 
 } 
+
+a {
+  color: #00ff84;
+}
 	
 .container{	 
 	/* Set width of container to 
