@@ -189,6 +189,10 @@ li {
   display: block;
 }
 
+.techIndent p {
+	margin-left: 500;
+}
+
 /* When you mouse over the navigation links, change their color */
 .sidenav a:hover {
   color: #e0e0e0;
