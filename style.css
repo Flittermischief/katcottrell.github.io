@@ -195,7 +195,14 @@ li {
 
 /* When you mouse over the navigation links, change their color */
 .sidenav a:hover {
-  color: #e0e0e0;
+	background-color: #e0e0e0;
+	color: black;
+}
+
+/* Add a color to the active/current link */
+.sidenav a.active {
+  background-color: #e0e0e0;
+  color: black;
 }
 
 /* Style page content */
