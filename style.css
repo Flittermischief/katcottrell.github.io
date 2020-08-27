@@ -189,8 +189,8 @@ li {
   display: block;
 }
 
-.techIndent p {
-	margin-left: 500;
+.techIndent {
+	margin-left: 300px;
 }
 
 /* When you mouse over the navigation links, change their color */
