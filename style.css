@@ -192,6 +192,9 @@ li {
 .techIndent {
 	margin-left: 300px;
 }
+.standardIndent {
+	margin: 60px;
+}
 
 /* When you mouse over the navigation links, change their color */
 .sidenav a:hover {
